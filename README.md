@@ -65,6 +65,3 @@ Abaixo, os fluxos principais validados durante o ciclo de vida do projeto:
 
 ## 🤝 Conclusão
 Minha atuação no **Prudential LMS** reforçou minha expertise em testes mobile, lidando com as particularidades de cada sistema operacional e garantindo uma experiência educacional sem fricção para o usuário final.
-
----
-**Desenvolvido por Bruno Salzani** [Acessar Repositório Original](https://github.com/bruno-salzani/manual-test-prudential)

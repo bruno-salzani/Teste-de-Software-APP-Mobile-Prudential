@@ -1,4 +1,4 @@
-# 📱 Projeto de QA Mobile — Prudential LMS
+# 🚀 prudential-lms-mobile-qa
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Plataforma](https://img.shields.io/badge/Plataforma-iOS%20%7C%20Android-lightgrey)

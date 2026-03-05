@@ -1,4 +1,4 @@
-# 🚀 prudential-lms-mobile-qa
+# 🚀 Mobile QA Testing - Prudential LMS App
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Plataforma](https://img.shields.io/badge/Plataforma-iOS%20%7C%20Android-lightgrey)
